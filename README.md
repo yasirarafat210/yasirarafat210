@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasirarafat210
-- 👀 I’m interested in Graphic Design
-- 🌱 I’m currently learning Graphic Design
+- 👀 I’m interested in UI/UX Design
+- 🌱 I’m currently learning UI/UX Design
 
 <!---
 yasirarafat210/yasirarafat210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
