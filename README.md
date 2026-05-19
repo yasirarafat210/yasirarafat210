@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasir Arafat Khan</h1>
 <h3 align="center">Business Analysis & Case Competition Enthusiast from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Undergraduate Student at **Green University of Bangladesh**
 - 📚 Major in **Finance**
