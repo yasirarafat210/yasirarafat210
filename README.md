@@ -20,10 +20,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://dribbble.com/yasirafat20" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg" alt="dribbble" height="30" width="40" />
-</a>
-
 <a href="https://www.facebook.com/yasirafat20" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="30" width="40" />
 </a>
