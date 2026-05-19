@@ -13,31 +13,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/yasir-arafat-khan-81316a218/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/yasirafat20" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Skills & Tools
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
-</p>
-
----
 
 ### 🚀 Interests
 
@@ -47,18 +22,6 @@
 - Branding & Marketing
 - Entrepreneurship
 - Presentation Design
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yasirarafat210&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirarafat210&theme=tokyonight" alt="streak"/>
-</p>
 
 ---
 
